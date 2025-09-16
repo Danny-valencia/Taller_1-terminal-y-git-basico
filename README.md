@@ -1,3 +1,3 @@
-o	Título: "Mi Proyecto Backend"
-o	Descripción: práctica de backend con Node.js
-o	Autor: Danny Valencia 
+Título: "Mi Proyecto Backend"
+Descripción: práctica de backend con Node.js
+Autor: Danny Valencia 
