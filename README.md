@@ -1,1 +1,3 @@
-# Taller_1-terminal-y-git-basico
+o	Título: "Mi Proyecto Backend"
+o	Descripción: práctica de backend con Node.js
+o	Autor: Danny Valencia 
